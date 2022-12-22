@@ -124,15 +124,15 @@ Before we start analyzing, it is necessary to make sure data is clean, free of e
 
 ## PHASE 4: Analyzing Data
 Performed data aggregation using R Programming.
-- Click [here](https://github.com/skramazan/GDA_Capstone_Project_Cyclistic_Bike-share/blob/main/02.%20Analysis/analysis_script.R) to view the R script and the summary of complete analysis process.
+- Click [here](https://github.com/Diamondeminence/Google-Data-Analytics-Project/blob/main/Cyclistic%20Script.R) to view the R script and the summary of complete analysis process.
 
 Further analysis were carried out to perform calculations, identify trends and relationships using PivotTable and Charts on Microsoft Excel.
 
- - Click [here](https://github.com/skramazan/GDA_Capstone_Project_Cyclistic_Bike-share/tree/main/02.%20Analysis) to view individual Excel files used for analysis
+ - Click [here](https://github.com/Diamondeminence/Google-Data-Analytics-Project/blob/main/BikeRidesSummary.xlsx) to view individual Excel files used for analysis
 
 ## PHASE 5: Share
 Microsoft PowerPoint is used for data visualization and presenting key insights.
-- Click [here](https://github.com/skramazan/GDA_Capstone_Project_Cyclistic_Bike-share/tree/main/03.%20Presentation) to download the presentation.
+- Click [here](https://github.com/Diamondeminence/Google-Data-Analytics-Project/blob/main/Case%20StudyPresentation.pptx) to download the presentation.
 
 ## PHASE 6: Act
 After analizing, we reached to the following conclusion:
@@ -147,8 +147,8 @@ Here are my top 3 recommendations based on above key findings:
 
 3. Effective and efficient promotions by targeting casual riders at the busiest times and stations:
 	- Days: Weekends
-	- Months: February, June, and July
-	- Stations: Streeter Dr & Grand Ave, Lake Shore Dr & Monroe St, Millennium Park
+	- Months: April, May, and September
+	- Stations: Streeter Dr & Grand Ave, DuSable Lake Shore Dr & North Blvd, Millennium Park
 
 
 ***Thank you for reading and Happy Analyzing!*** :smiley: :bar_chart:
